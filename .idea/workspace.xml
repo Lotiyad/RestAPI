@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b98466-a50e-434f-85ca-34d50b192136" name="Changes" comment="" />
+    <list default="true" id="71b98466-a50e-434f-85ca-34d50b192136" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/Dto/TaskDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/Entity/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/Mapper/TaskMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/Repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/Service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/Service/imple/TaskServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/TodoappApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/exception/TaskNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/todo/todoapp/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/test/java/com/todo/todoapp/TodoappApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/HelloWorld.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/components/EmployeeComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/components/FooterComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/components/HeaderComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/components/ListEmployeeComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/src/services/EmployeeService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ems-frontend/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +64,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lotiyad"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Lotiyad/RestAPI.git",
+    "accountId": "821ca8e1-6788-48a2-b764-f91318f9a3d7"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,6 +90,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2viBqa0w9anqtzMRVqLFvh0Yeda" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,6 +106,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.TodoappApplication.executor": "Run",
+    "git-widget-placeholder": "Merging employee-management",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lock/Desktop/todoapp/backend",
     "node.js.detected.package.eslint": "true",
@@ -93,6 +155,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

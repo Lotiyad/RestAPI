@@ -3,20 +3,34 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+<<<<<<< HEAD
       <profile name="Annotation profile for employee-backend" enabled="true">
+=======
+      <profile name="Annotation profile for todoapp" enabled="true">
+>>>>>>> 0b5af69c545521521c0a0fb08d802cda1f816b69
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
+<<<<<<< HEAD
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
         </processorPath>
         <module name="springboot-backend" />
+=======
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.36/lombok-1.18.36.jar" />
+        </processorPath>
+        <module name="todoapp" />
+>>>>>>> 0b5af69c545521521c0a0fb08d802cda1f816b69
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
       <module name="springboot-backend" options="-parameters" />
+=======
+      <module name="todoapp" options="-parameters" />
+>>>>>>> 0b5af69c545521521c0a0fb08d802cda1f816b69
     </option>
   </component>
 </project>
